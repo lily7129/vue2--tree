@@ -16,8 +16,7 @@ export default {
   name: 'treeNode',
   props: {
     treeData: [Array],
-    options: [Object],
-    changeData: Number
+    options: [Object]
   },
   data () {
     return {
